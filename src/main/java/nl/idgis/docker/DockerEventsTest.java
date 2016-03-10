@@ -2,7 +2,7 @@ package nl.idgis.docker;
 
 import nl.idgis.docker.api.DockerClient;
 
-public class EventTest {
+public class DockerEventsTest {
 	
 	public static void main(String[] args) throws Exception {
 		DockerClient dockerClient = new DockerClient();		
